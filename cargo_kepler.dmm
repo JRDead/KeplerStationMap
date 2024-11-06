@@ -1,0 +1,57 @@
+"a" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/iron,/area/shuttle/supply)
+"b" = (/obj/effect/turf_decal/stripes/line{dir = 8},/obj/machinery/conveyor{dir = 1; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"c" = (/obj/structure/plasticflaps/opaque,/obj/machinery/conveyor{dir = 4; id = "cargo-loading"},/turf/open/floor/mineral/titanium/purple,/area/shuttle/supply)
+"d" = (/turf/closed/wall/mineral/titanium,/area/shuttle/supply)
+"e" = (/obj/effect/turf_decal/stripes/corner{dir = 8},/obj/effect/turf_decal/stripes/corner{dir = 1},/obj/machinery/conveyor/inverted{dir = 10; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"f" = (/obj/effect/turf_decal/stripes/line{dir = 1},/obj/machinery/conveyor{dir = 4; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"h" = (/obj/effect/turf_decal/stripes/line{dir = 4},/obj/machinery/conveyor{id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"i" = (/obj/machinery/power/shuttle_engine/propulsion/burst/left,/obj/structure/window/reinforced/spawner/directional/west,/obj/structure/window/reinforced/spawner/directional/east,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"j" = (/obj/effect/turf_decal/bot,/obj/effect/decal/cleanable/dirt,/turf/open/floor/iron,/area/shuttle/supply)
+"k" = (/obj/effect/turf_decal/bot,/turf/open/floor/iron,/area/shuttle/supply)
+"l" = (/obj/structure/window/reinforced/spawner/directional/east,/obj/structure/window/reinforced/spawner/directional/north,/obj/machinery/power/shuttle_engine/heater,/obj/structure/window/reinforced/spawner/directional/west,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"m" = (/obj/structure/window/reinforced/spawner/directional/east,/obj/structure/window/reinforced/spawner/directional/west,/obj/machinery/power/shuttle_engine/propulsion/burst/left,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"n" = (/obj/machinery/door/airlock/titanium{name = "Supply Shuttle Airlock"},/obj/effect/mapping_helpers/airlock/access/all/supply/general,/obj/docking_port/mobile/supply{dir = 4},/turf/open/floor/plating,/area/shuttle/supply)
+"o" = (/obj/machinery/light/directional/west,/obj/effect/turf_decal/stripes/line{dir = 8},/obj/effect/turf_decal/arrows{dir = 4},/turf/open/floor/iron,/area/shuttle/supply)
+"p" = (/obj/effect/turf_decal/bot,/obj/effect/decal/cleanable/oil,/turf/open/floor/iron,/area/shuttle/supply)
+"q" = (/obj/structure/plasticflaps/opaque,/obj/machinery/conveyor{id = "cargo-unloading"; dir = 8},/turf/open/floor/mineral/titanium/blue,/area/shuttle/supply)
+"r" = (/obj/effect/turf_decal/stripes/line{dir = 10},/obj/machinery/conveyor{id = "cargo-unloading"; dir = 9},/turf/open/floor/iron,/area/shuttle/supply)
+"s" = (/obj/machinery/light/directional/east,/obj/effect/turf_decal/stripes/line{dir = 4},/obj/machinery/conveyor{id = "cargo-unloading"},/turf/open/floor/iron,/area/shuttle/supply)
+"t" = (/obj/effect/turf_decal/stripes/line{dir = 4},/turf/open/floor/iron,/area/shuttle/supply)
+"u" = (/obj/effect/turf_decal/stripes/line{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/iron,/area/shuttle/supply)
+"v" = (/obj/effect/turf_decal/stripes/line{dir = 4},/obj/structure/railing{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/iron,/area/shuttle/supply)
+"y" = (/obj/machinery/light/directional/north,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/machinery/conveyor{dir = 4; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"z" = (/obj/machinery/conveyor_switch/oneway{dir = 1; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"A" = (/obj/effect/turf_decal/stripes/line{dir = 9},/obj/machinery/conveyor{dir = 5; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"B" = (/obj/effect/turf_decal/stripes/line{dir = 8},/obj/effect/turf_decal/arrows{dir = 8; pixel_x = 14},/turf/open/floor/iron,/area/shuttle/supply)
+"D" = (/obj/structure/window/reinforced/spawner/directional/east,/obj/structure/window/reinforced/spawner/directional/west,/obj/machinery/power/shuttle_engine/propulsion/burst/left{dir = 1},/turf/open/floor/plating/airless,/area/shuttle/supply)
+"E" = (/obj/effect/turf_decal/stripes/line{dir = 4},/obj/machinery/conveyor{id = "cargo-unloading"},/turf/open/floor/iron,/area/shuttle/supply)
+"F" = (/obj/effect/turf_decal/stripes/line{dir = 8},/obj/machinery/conveyor{id = "cargo-unloading"; dir = 1},/turf/open/floor/iron,/area/shuttle/supply)
+"H" = (/obj/machinery/conveyor_switch/oneway{id = "cargo-unloading"},/turf/open/floor/iron,/area/shuttle/supply)
+"J" = (/obj/effect/turf_decal/stripes/corner{dir = 8},/obj/effect/turf_decal/stripes/corner{dir = 1},/obj/machinery/conveyor/inverted{dir = 6; id = "cargo-unloading"},/turf/open/floor/iron,/area/shuttle/supply)
+"K" = (/obj/effect/decal/cleanable/oil,/turf/open/floor/iron,/area/shuttle/supply)
+"L" = (/obj/machinery/power/shuttle_engine/heater,/obj/structure/window/reinforced/spawner/directional/west,/obj/structure/window/reinforced/spawner/directional/north,/obj/structure/window/reinforced/spawner/directional/east,/turf/open/floor/plating/airless,/area/shuttle/supply)
+"N" = (/obj/machinery/door/airlock/titanium{name = "Supply Shuttle Airlock"},/obj/effect/mapping_helpers/airlock/access/all/supply/general,/turf/open/floor/plating,/area/shuttle/supply)
+"Q" = (/obj/machinery/light/directional/south,/obj/effect/turf_decal/stripes/line,/obj/machinery/conveyor{id = "cargo-unloading"; dir = 8},/turf/open/floor/iron,/area/shuttle/supply)
+"R" = (/obj/effect/turf_decal/stripes/line{dir = 4},/obj/structure/railing,/turf/open/floor/iron,/area/shuttle/supply)
+"S" = (/obj/effect/turf_decal/stripes/line,/obj/machinery/conveyor{id = "cargo-unloading"; dir = 8},/turf/open/floor/iron,/area/shuttle/supply)
+"T" = (/obj/machinery/light/directional/east,/obj/effect/turf_decal/stripes/line{dir = 4},/obj/machinery/conveyor{id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"U" = (/obj/effect/turf_decal/stripes/line{dir = 5},/obj/machinery/conveyor{dir = 6; id = "cargo-loading"},/turf/open/floor/iron,/area/shuttle/supply)
+"V" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/shuttle/supply)
+"W" = (/turf/open/floor/iron,/area/shuttle/supply)
+"X" = (/obj/effect/turf_decal/stripes/line{dir = 6},/obj/machinery/conveyor{dir = 10; id = "cargo-unloading"},/turf/open/floor/iron,/area/shuttle/supply)
+"Z" = (/obj/structure/window/reinforced/spawner/directional/east,/obj/structure/window/reinforced/spawner/directional/south,/obj/structure/window/reinforced/spawner/directional/west,/obj/machinery/power/shuttle_engine/heater{dir = 1},/turf/open/floor/plating/airless,/area/shuttle/supply)
+
+(1,1,1) = {"
+DdddddD
+ZAyfyUZ
+dbWzahd
+cejkkTd
+nokkpvd
+Vujkktd
+NBkkkRd
+qJkjksd
+dFkkjEd
+dFaHKEd
+lrQSQXL
+mdddddi
+"}
